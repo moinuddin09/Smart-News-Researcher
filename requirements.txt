@@ -2,3 +2,6 @@ streamlit
 newspaper3k
 python-dotenv
 google-generativeai
+lxml
+lxml_html_clean
+
