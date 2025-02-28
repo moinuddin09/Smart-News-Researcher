@@ -3,9 +3,6 @@
 ## Overview
 Smart News Researcher is a Streamlit-based web application that fetches news articles from given URLs, extracts the content, and allows users to ask questions about the articles using Google's Gemini AI model.
 
-### Screenshot
-![Smart News Researcher](smart_news_researcher_screenshot.png)
-
 ## Features
 - Fetch news articles from URLs
 - Display extracted content
